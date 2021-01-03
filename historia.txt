@@ -2,3 +2,5 @@ Archivo de prueba git experimento con
 commit y trabajo en ramas.
 agregando líneas nuevas para notar
 cambios en la primer versión.
+en camara aparece alto pero la verdad no es tan alto.
+
